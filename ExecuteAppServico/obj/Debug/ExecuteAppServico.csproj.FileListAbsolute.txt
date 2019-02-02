@@ -1,0 +1,17 @@
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.ProjectInstaller.resources
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.csproj.GenerateResource.Cache
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.csproj.CoreCompileInputs.cache
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.exe.config
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.exe
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.pdb
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.exe
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.pdb
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.exe.config
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.exe
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\bin\Debug\ExecuteAppServico.pdb
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.csprojResolveAssemblyReference.cache
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.ProjectInstaller.resources
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.csproj.GenerateResource.Cache
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.csproj.CoreCompileInputs.cache
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.exe
+C:\Users\FREEGROUP\Desktop\Projetos\ExecuteAppServico\ExecuteAppServico\obj\Debug\ExecuteAppServico.pdb

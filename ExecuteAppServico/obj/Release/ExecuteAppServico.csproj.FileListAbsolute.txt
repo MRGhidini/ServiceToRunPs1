@@ -1,0 +1,8 @@
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Release\ExecuteAppServico.exe.config
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Release\ExecuteAppServico.exe
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\bin\Release\ExecuteAppServico.pdb
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Release\ExecuteAppServico.ProjectInstaller.resources
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Release\ExecuteAppServico.csproj.GenerateResource.Cache
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Release\ExecuteAppServico.csproj.CoreCompileInputs.cache
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Release\ExecuteAppServico.exe
+c:\users\freegroup\documents\visual studio 2017\Projects\ExecuteAppServico\ExecuteAppServico\obj\Release\ExecuteAppServico.pdb
