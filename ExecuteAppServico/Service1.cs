@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -17,6 +17,7 @@ namespace ExecuteAppServico
     {
         System.Threading.Timer timer1;
         public static string path = System.AppDomain.CurrentDomain.BaseDirectory.ToString();
+
         public Service1()
         {
             InitializeComponent();
@@ -24,11 +25,14 @@ namespace ExecuteAppServico
 
         protected override void OnStart(string[] args)
         {
-            timer1 = new System.Threading.Timer(new TimerCallback(ExecuteAPP), null, 3000, 3000);
+            timer1 = new System.Threading.Timer(new TimerCallback(ExecuteAPP), null, Tools.TimeInI(path), Tools.TimeDelay(path));
         }
 
         protected override void OnStop()
         {
+            string hora = DateTime.Now.ToShortTimeString();
+            string data = DateTime.Now.ToShortDateString();
+            Tools.CreateFileWriteHistoric(path+"LogStop.txt","Servico parado em: Data: "+data+" Hora: "+hora);
         }
 
         private void ExecuteAPP(object sender)
@@ -36,20 +40,9 @@ namespace ExecuteAppServico
 
             using (Process processo = new Process())
             {
-                processo.StartInfo.CreateNoWindow = true;
-                System.Diagnostics.Process.Start("powershell.exe", " -executionpolicy unrestricted -file " + "\"" + RetornAPP() + "\"");
+                System.Diagnostics.Process.Start("powershell.exe", " -executionpolicy unrestricted -file " + "\"" + Tools.RetornAPP(path) + "\"");
             }
 
-        }
-
-        public static string RetornAPP()
-        {
-            string ret;
-            System.Xml.XmlDocument xmldoc = new System.Xml.XmlDocument();
-            xmldoc.Load(path + "Conf.xml");
-            System.Xml.XmlNode AppNode = xmldoc.SelectSingleNode("AppNode");
-            ret = AppNode.InnerText;
-            return ret;
         }
 
     }
